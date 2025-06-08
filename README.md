@@ -1,4 +1,4 @@
-![Preview](https://drive.google.com/file/d/1RP94NAdvY81Wf8IWBEU43jESrIaIrXVn/view?usp=sharing)
+![Preview](BBCA_BG.png)
 # BCA Stock Price Forecasting using ANN
 
 This project aims to forecast the stock price of Bank Central Asia (BCA) using Artificial Neural Networks (ANN). The prediction is based on historical stock price data retrieved from Yahoo Finance.
